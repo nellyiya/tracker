@@ -1,10 +1,10 @@
-Here’s the updated README with instructions for cloning the repository:
-
----
+👋 Hello Developers!
 
 # **Daily Expenses Tracker (DTE)**
 
 Introducing our revolutionary **Online Daily Expenses Tracker** built in PHP. This application is designed to address the limitations of traditional systems, providing an intuitive platform for seamless expense and income management. Say goodbye to manual calculations with our user-friendly interface, robust features, and insightful analytics.
+
+Explore, customize, and enhance your coding skills as you dive into the world of efficient financial tracking! 🚀
 
 ---
 
@@ -47,7 +47,7 @@ Introducing our revolutionary **Online Daily Expenses Tracker** built in PHP. Th
 2. Navigate to the directory where you want to clone the project.
 3. Run the following command:
    ```bash
-   git clone https://github.com/yourusername/daily-expense-tracker.git
+   git clone https://github.com/nellyiya/tracker.git
    ```
 4. Navigate to the cloned project folder:
    ```bash
@@ -76,7 +76,7 @@ Introducing our revolutionary **Online Daily Expenses Tracker** built in PHP. Th
 
 ## 🟨 System Requirements:
 
-- **Operating System: Windows, macOS, or Linux  
+- Operating System: Windows, macOS, or Linux  
 - **Server:** XAMPP/WAMP/MAMP  
 - **Database:** MySQL  
 - **Web Server:** Apache  
